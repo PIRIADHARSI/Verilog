@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/college_session/05_03_23
+vmux_2x1
+!s110 1685942125
+!i10b 1
+!s100 UjCaU=ZFhh957ll6O7DHP3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I0F@MW3QIA8o5e:n0K_EXe3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1685941241
+8mux_2x1.v
+Fmux_2x1.v
+!i122 1
+L0 1 12
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1685942125.000000
+!s107 mux_2x1.v|tb.v|
+Z4 !s90 -reportprogress|300|tb.v|
+!i113 1
+Z5 tCvgOpt 0
+vmux_2x1_data
+Z6 !s110 1685942258
+!i10b 1
+!s100 =@diAK[6d[UX0nFDTZaR^3
+R1
+IJbg3OeoI821CcT?ST=?bY2
+R2
+R0
+w1685941400
+8mux_2x1_data.v
+Fmux_2x1_data.v
+!i122 2
+L0 1 5
+R3
+r1
+!s85 0
+31
+Z7 !s108 1685942258.000000
+!s107 mux_2x1_data.v|tb.v|
+R4
+!i113 1
+R5
+vtb
+R6
+!i10b 1
+!s100 0cj9Do?CP=EcN9ffiFg7o3
+R1
+IC7cbXgbC;Cj_QbDJ8g8RJ0
+R2
+R0
+w1685942253
+8tb.v
+Ftb.v
+!i122 2
+L0 3 16
+R3
+r1
+!s85 0
+31
+R7
+Z8 !s107 mux_2x1_data.v|tb.v|
+R4
+!i113 1
+R5

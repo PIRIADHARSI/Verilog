@@ -1,0 +1,40 @@
+multiplexer--> 2x1 mux 
+
+		if sel is 1 select i1
+		if sel is 0 select i0
+
+
+$display--> it will print the line whenever execution comes to that $display line
+$monitor--> whenever any input is changing it will print the line
+** inside repeat block $display and $monitor will work same
+** where to use $monitor--> inside procedural block but outside repeat block
+
+
+mux_4x1 truth table-->
+
+sel1   sel0  
+0      0     i0
+0      1     i1
+1      0     i2
+1      1     i3
+
+** we cannot use instantiation inside procedural block
+
+** priority encoder please check giving x value in the testbench for the inputs
+
+
+up_counter , down_counter and up_down_counter using behavioral style
+** multiplexer 2x1 and 4x1
+** 4x1 mux using 2x1 mux
+** encoder and priority encoder
+
+
+
+
+
+
+
+
+
+
+

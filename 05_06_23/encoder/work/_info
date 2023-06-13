@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/college_session/05_03_23/encoder
+vencoder
+!s110 1685945452
+!i10b 1
+!s100 64:ijefcZQzdZ?oPbXcNQ0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ic3cBm98GC0XlMBcB@PZJ^3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1685944998
+8encoder.v
+Fencoder.v
+!i122 1
+Z3 L0 1 26
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1685945452.000000
+!s107 encoder.v|tb.v|
+Z5 !s90 -reportprogress|300|tb.v|
+!i113 1
+Z6 tCvgOpt 0
+vencoder_vec
+!s110 1685946191
+!i10b 1
+!s100 =k;46ne8gLKB_UQe@bZ=d2
+R1
+IW^hHd6S`ZB@O0L;>B<dBm3
+R2
+R0
+w1685946097
+8encoder_vec.v
+Fencoder_vec.v
+!i122 5
+R3
+R4
+r1
+!s85 0
+31
+!s108 1685946190.000000
+!s107 encoder_vec.v|tb.v|
+R5
+!i113 1
+R6
+vprior_encoder
+Z7 !s110 1685946598
+!i10b 1
+!s100 jkXhPWQCW>?E:c`N25[B;1
+R1
+Ij;]e4XTSDjgSLnZ1B?ZHL1
+R2
+R0
+w1685945239
+8prior_encoder.v
+Fprior_encoder.v
+!i122 7
+R3
+R4
+r1
+!s85 0
+31
+Z8 !s108 1685946598.000000
+!s107 prior_encoder.v|tb.v|
+R5
+!i113 1
+R6
+vtb
+R7
+!i10b 1
+!s100 B59hAKmHb=3JizgVZ4_bg0
+R1
+I9aNoPZR[:kO;gFbXjB>=F2
+R2
+R0
+w1685946596
+8tb.v
+Ftb.v
+!i122 7
+L0 4 22
+R4
+r1
+!s85 0
+31
+R8
+Z9 !s107 prior_encoder.v|tb.v|
+R5
+!i113 1
+R6

@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/college_session/05_03_23/counters
+vdown_counter
+!s110 1685948407
+!i10b 1
+!s100 :A15TDa3dlX@UYe2ZaHj61
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IiMCbBezgcKW47zcDfflbD0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1685948404
+8down_counter.v
+Fdown_counter.v
+!i122 2
+Z3 L0 1 12
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1685948407.000000
+!s107 down_counter.v|tb.v|
+Z5 !s90 -reportprogress|300|tb.v|
+!i113 1
+Z6 tCvgOpt 0
+vtb
+Z7 !s110 1685948913
+!i10b 1
+!s100 bcE3BWTn]1TDAQB?d_GjB2
+R1
+ILdO6OJ<6AzZX9cZHaZ[[O3
+R2
+R0
+w1685948910
+8tb.v
+Ftb.v
+!i122 5
+L0 4 36
+R4
+r1
+!s85 0
+31
+Z8 !s108 1685948913.000000
+!s107 up_down_counter.v|tb.v|
+R5
+!i113 1
+R6
+vup_counter
+!s110 1685948288
+!i10b 1
+!s100 =WElZi?kn@4Glda0>^MTz2
+R1
+IAY6ZOVcHWlag=X3j3kl2m2
+R2
+R0
+w1685948020
+8up_counter.v
+Fup_counter.v
+!i122 1
+R3
+R4
+r1
+!s85 0
+31
+!s108 1685948288.000000
+!s107 up_counter.v|tb.v|
+R5
+!i113 1
+R6
+vup_down_counter
+R7
+!i10b 1
+!s100 ^hFDbfG[<XO6Zck698Q[G1
+R1
+IZdRf1ao@FATLBRVLIdAVK3
+R2
+R0
+w1685948733
+8up_down_counter.v
+Fup_down_counter.v
+!i122 5
+L0 1 16
+R4
+r1
+!s85 0
+31
+R8
+Z9 !s107 up_down_counter.v|tb.v|
+R5
+!i113 1
+R6
