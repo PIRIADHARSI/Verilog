@@ -1,0 +1,41 @@
+ses_notes--> 
+
+in GVIM we edit the codes
+
+we are going to develop some basic combinational logic using Verilog language
+and run the simulation using modelsim software
+
+half adder--> we have 2 inputs and 2 outputs
+a anb is the inputs and sum and carry are outputs
+
+
+in verilog 3 different style of coding are there--> 1.behavioral
+													2. dataflow
+													3. structural
+
+in design file--> 1. module <module_name> (port_lists inputs and outputs)
+					2. declare inputs and outputs
+					3. initial and always are the two procedural blocks we use
+					4. in behavioral style output should be declared as reg in design
+
+** inside procedural block whatever variables we declare at LHS side of the statement, that variable should be reg type
+
+
+** in behavioral we use procedural block , inside procedural block we implement the logic
+** in dataflow we implement the boolean expression using assign keyword
+**in structural modelling we implement the circuit diagram using gate instantiation
+
+		in gate instantiation gate_name gate_instantiation_name (output,inputs)
+
+
+testbench--> 1. `include "design_file_name"
+			2. inputs in design file declare them as reg 
+			3. outputs in design file declare them as wire
+			4. instantiation --> <design_module_name> <dut> (port_list of the design with same order)
+			5. iniside initial we generate inputs
+			6. $random generate random numbers
+			7. %b--> format specifier we use in display to display the value in binary format
+
+** x output means the display statement is not getting wheather the output is 0 or 1
+** z means high impedence where any connection is  left open
+** intermediate connections should be declared as wire

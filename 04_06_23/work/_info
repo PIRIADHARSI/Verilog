@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/college_session/04_03_23
+vhalf_adder
+!s110 1685858853
+!i10b 1
+!s100 Q]S41]e06bHSd;6]1Kbon1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IYSZfP6Doj2@:4lDP=kCZ03
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1685858850
+8half_adder.v
+Fhalf_adder.v
+!i122 1
+L0 1 22
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1685858853.000000
+!s107 half_adder.v|tb.v|
+Z4 !s90 -reportprogress|300|tb.v|
+!i113 1
+Z5 tCvgOpt 0
+vhalf_adder_data
+!s110 1685859035
+!i10b 1
+!s100 01Q9]nQMa8L`_6GP^X:`?2
+R1
+I;1fNXI6Wo[]3bg8o?IK^`3
+R2
+R0
+w1685856458
+8half_adder_data.v
+Fhalf_adder_data.v
+!i122 2
+L0 1 6
+R3
+r1
+!s85 0
+31
+!s108 1685859035.000000
+!s107 half_adder_data.v|tb.v|
+R4
+!i113 1
+R5
+vhalf_adder_struct
+Z6 !s110 1685859486
+!i10b 1
+!s100 IFZFUTBGogR^l[Zol>mFA0
+R1
+I3CZEDiXlK;Uzj0SC6dWL_0
+R2
+R0
+w1685859484
+8half_adder_struct.v
+Fhalf_adder_struct.v
+!i122 7
+L0 1 7
+R3
+r1
+!s85 0
+31
+Z7 !s108 1685859486.000000
+!s107 half_adder_struct.v|tb.v|
+R4
+!i113 1
+R5
+vtb
+R6
+!i10b 1
+!s100 _UblRIkJRY963]g_]D?O<3
+R1
+IR7XziiI3U@nJI:IOH23HA3
+R2
+R0
+w1685859473
+8tb.v
+Ftb.v
+!i122 7
+L0 4 15
+R3
+r1
+!s85 0
+31
+R7
+Z8 !s107 half_adder_struct.v|tb.v|
+R4
+!i113 1
+R5
