@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/college_session/05_06_23_2/FSM_pattern_detector
+vpattern_mealy
+!s110 1685963894
+!i10b 1
+!s100 48=VPC`=Ui=7aJBJgXiMZ1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+If?mIafhg9:Amijho2bzaD2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1685963891
+8pattern_mealy.v
+Fpattern_mealy.v
+!i122 6
+Z3 L0 2 68
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1685963894.000000
+!s107 pattern_mealy.v|tb.v|
+Z5 !s90 -reportprogress|300|tb.v|
+!i113 1
+Z6 tCvgOpt 0
+vpattern_mealy_over
+Z7 !s110 1685965007
+!i10b 1
+!s100 T1gdE1HXPk?6af==eXm:02
+R1
+Ize_omW6Vd6f`^gkK`cZVK3
+R2
+R0
+Z8 w1685964999
+8pattern_mealy_over.v
+Fpattern_mealy_over.v
+!i122 8
+R3
+R4
+r1
+!s85 0
+31
+Z9 !s108 1685965007.000000
+!s107 pattern_mealy_over.v|tb.v|
+R5
+!i113 1
+R6
+vpattern_moore
+!s110 1685964634
+!i10b 1
+!s100 LHA4K6ckgjekNHRLZGkTn0
+R1
+IVYlK7YIKS2Rh1@_?=PHV80
+R2
+R0
+w1685964629
+8pattern_moore.v
+Fpattern_moore.v
+!i122 7
+L0 2 77
+R4
+r1
+!s85 0
+31
+!s108 1685964634.000000
+!s107 pattern_moore.v|tb.v|
+R5
+!i113 1
+R6
+vtb
+R7
+!i10b 1
+!s100 V<J=aUY2Lb0YhAcg<L0k`0
+R1
+IncG6z6L8UV<4:gk0VQDOW3
+R2
+R0
+R8
+8tb.v
+Ftb.v
+!i122 8
+L0 4 43
+R4
+r1
+!s85 0
+31
+R9
+Z10 !s107 pattern_mealy_over.v|tb.v|
+R5
+!i113 1
+R6

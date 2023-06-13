@@ -1,0 +1,48 @@
+develop a memory design and testbench
+
+handshaking means--> when valid and ready both are high
+
+write to the memory--> writing some data to the memory
+read from the memory--> reading those particular data from the memory
+
+where we can write or read data--> at memory location/address
+
+we can to the transfer only when valid and ready pin are 1
+
+memory is an array of vector--> reg [WIDTH-1:0]mem[DEPTH-1:0]
+WIDTH--> the size of the data we are going to write or read so vector
+DEPTH--> no of locations the memory has
+
+reg [7:0]mem[10:0]--> this memory has 11 locations and each location can store 8 bit data
+
+size of the memory is 88 bit
+
+size of the memory = DEPTH * WIDTH
+DEPTH = 2**ADDR_WIDTH
+
+in sequential logic--> when reset is present, we make all the reg type variables as 0.
+
+FSM--> Finite State Machine
+
+we are going to deetect some pattern using finite state machines
+
+FSM are of two types--> 1. Mealy state machine(depends on current state as well as inputs)
+						2. Moore state machine(depends on current inputs only)
+
+
+i want to implement a state machine which has 5 states --> Mealy will have 5 states
+														Moore will have 1 more state i.e 6 states
+
+non-overlapping--> when pattern gets detected, we will search from the next bit of the pattern
+overlapping--> we will start searching the pattern whenever there is a possibility of getting the pattern
+
+
+if B comes --> S_BBCBB
+
+
+
+
+
+
+
+

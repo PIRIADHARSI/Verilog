@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/college_session/05_06_23_2
+vmemory
+Z1 !s110 1685959360
+!i10b 1
+!s100 JlLfH_E^ROCngTiM3^>Cg2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I3dYfe=;g?XZa8Oc3VY8mK0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1685959331
+8memory.v
+Fmemory.v
+!i122 1
+L0 1 35
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1685959360.000000
+!s107 memory.v|tb.v|
+Z6 !s90 -reportprogress|300|tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 :OePzX@6gXTi>kR<0?V0o0
+R2
+I`]UlEO@`Qc:7;f:fW;_T:1
+R3
+R0
+w1685959358
+8tb.v
+Ftb.v
+!i122 1
+L0 2 56
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 memory.v|tb.v|
+R6
+!i113 1
+R7
