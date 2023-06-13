@@ -1,0 +1,66 @@
+half adder with 3 different styles
+full adder with 3 different styles
+
+all these we have done using single bit only
+
+to represent multiple bit--> we need vector
+
+how to declare a vector--> <datatype><MSB:LSB><vec_name>
+how to declare a array--> <datatype><array_name><MSI:LSI>--> MSI is most significant index and LSI least significant index
+
+reg [3:0]vec_name--> representing 4 bit vector
+4bit vector means size is 4
+size = (MSB-LSB)+1
+4 = (3-0)+1
+
+{}--> this operator is called concatenation operator
+it concatenates the variable bits
+
+1100
+1010
+   1
+----
+1 0111
+
+size of sum--> 4 bit using 4bit maximum what is the value we can count?
+
+1111
+1_0000
+1_0100--> 20
+
+if a is 4 bit--> [3:0]--> a[0],a[1],a[2],a[3]
+
+port connections--> 1. connection by position
+					2. connection by name
+					.sub_module_port(main_module_port)
+
+genvar-->it generates variable whenever detects replication in instantiation with a particular pattern
+** genvar should be used in a for loop outside procedural block
+
+parameter--> is a constant, where we use english word to assign some value and use that in the entire code
+
+parameter overriding-->in testbench we override the parameter so that only changing in testbench will take effect in the entire code
+
+** design_module_name #(.design_parameter_name(testbench_parameter_name)) dut (portlist of design)
+
+
+how to develop multiple bit full adder
+understand the concept of vector
+from 1 bit full adder how to develop multiple bit FA
+use of genvar
+use of parameter
+we understand the port connections and instantiation
+
+d-fliplop--> output follows the input
+
+** in combinational logic--. in always block sentitivity list we were giving * which fetch all the inputs
+
+** in sequential logic--> for flip flop we get the output at every positive edges of the clock
+
+** in combinational logic there is no concept of clock as well as reset
+** in sequential clock is everything
+** d_flip_flop
+
+
+
+
